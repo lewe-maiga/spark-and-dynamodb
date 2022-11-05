@@ -193,8 +193,8 @@ Ok, vous êtes équipés pour interagir avec les sevices sur AWS. C'est parti !
 pyspark && jupyter-notebook --no-browser
 ```
 
-L'environnement de travail est prêt, à present clonez le projet 
+L'environnement de travail est prêt, à present clonez le projet
 
 ```bash
-git clone 
+git clone https://github.com/lewe-maiga/spark-and-dynamodb.git
 ```
