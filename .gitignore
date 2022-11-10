@@ -4,3 +4,4 @@ config.pdf
 rootkey.csv
 spark-3.3.1-bin-hadoop3.tgz
 styles.css
+wordcount.py
